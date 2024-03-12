@@ -29,4 +29,4 @@ print(nome)
 novo_nome: str = ''
 for palavra in nome:
     novo_nome = palavra + novo_nome
-print(f'Invertando a palavra acima teremos :{novo_nome} ')
+print(f'Invertendo a palavra acima teremos :{novo_nome} ')
